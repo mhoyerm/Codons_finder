@@ -1,0 +1,48 @@
+> AAC73550 cds chromosome:ASM584v2:Chromosome:468383:468841:1 gene:b0447 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:ybaO description:putative DNA-binding transcriptional regulator
+AAAATT
+> AAC73631 cds chromosome:ASM584v2:Chromosome:556875:557741:-1 gene:b0529 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:folD description:bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase
+AAGATT
+> AAC73685 cds chromosome:ASM584v2:Chromosome:610254:612494:-1 gene:b0584 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:fepA description:ferrienterobactin outer membrane transporter
+AAGATT
+> AAC73716 cds chromosome:ASM584v2:Chromosome:648039:649571:-1 gene:b0615 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:citF description:citrate lyase, citrate-ACP transferase (alpha) subunit
+AAAATT
+> AAC74014 cds chromosome:ASM584v2:Chromosome:984519:985709:-1 gene:b0928 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:aspC description:aspartate aminotransferase, PLP-dependent
+AACATT
+> AAC74068 cds chromosome:ASM584v2:Chromosome:1044664:1045803:-1 gene:b0983 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:gfcE description:putative O-antigen capsule outer membrane auxillary protein export channel
+AACATT
+> AAC74175 cds chromosome:ASM584v2:Chromosome:1148759:1149712:1 gene:b1091 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:fabH description:3-oxoacyl-[acyl-carrier-protein] synthase III
+AAGATT
+> AAC74391 cds chromosome:ASM584v2:Chromosome:1370216:1371895:1 gene:b1309 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:ycjM description:alpha amylase catalytic domain family protein
+AAAATT
+> AAC74454 cds chromosome:ASM584v2:Chromosome:1429049:1432411:1 gene:b1372 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:stfR description:Rac prophage; putative tail fiber protein
+AAGATT
+> AAC74574 cds chromosome:ASM584v2:Chromosome:1584207:1586486:-1 gene:b1501 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:ydeP description:putative oxidoreductase
+AAAATT
+> AAC74850 cds chromosome:ASM584v2:Chromosome:1863850:1864734:1 gene:b1780 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:yeaD description:D-hexose-6-phosphate epimerase-like protein
+AAAATT
+> AAC75154 cds chromosome:ASM584v2:Chromosome:2174282:2174566:-1 gene:b2093 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:gatB description:galactitol-specific enzyme IIB component of PTS
+AAGATT
+> AAC75560 cds chromosome:ASM584v2:Chromosome:2630958:2632535:-1 gene:b2507 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:guaA description:GMP synthetase (glutamine aminotransferase)
+AACATT
+> AAC75646 cds chromosome:ASM584v2:Chromosome:2737154:2737495:1 gene:b2597 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:raiA description:cold shock protein associated with 30S ribosomal subunit
+AACATT
+> AAC75912 cds chromosome:ASM584v2:Chromosome:3011461:3012393:1 gene:b2874 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:yqeA description:putative amino acid kinase
+AAAATT
+> AAC76187 cds chromosome:ASM584v2:Chromosome:3298974:3299492:1 gene:b3153 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:yhbO description:stress-resistance protein
+AAAATT
+> AAC76235 cds chromosome:ASM584v2:Chromosome:3346173:3346460:1 gene:b3203 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:hpf description:ribosome hibernation promoting factor HPF; stabilizes 100S dimers
+AACATT
+> AAC76288 cds chromosome:ASM584v2:Chromosome:3405917:3407266:1 gene:b3256 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:accC description:acetyl-CoA carboxylase, biotin carboxylase subunit
+AAAATT
+> AAC76424 cds chromosome:ASM584v2:Chromosome:3528669:3529337:1 gene:b3399 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:yrfG description:GMP/IMP nucleotidase
+AACATT
+> AAC76551 cds chromosome:ASM584v2:Chromosome:3679419:3680348:1 gene:b3526 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:kdgK description:2-dehydro-3-deoxygluconokinase
+AAGATT
+> AAC76585 cds chromosome:ASM584v2:Chromosome:3725887:3726882:1 gene:b3561 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:wecH description:O-acetyltransferase for enterobacterial common antigen (ECA)
+AAAATT
+> AAC76742 cds chromosome:ASM584v2:Chromosome:3899408:3900577:-1 gene:b3719 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:yieL description:putative xylanase
+AAAATT
+> AAC76786 cds chromosome:ASM584v2:Chromosome:3965761:3966090:1 gene:b3781 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:trxA description:thioredoxin 1
+AAAATT
+> AAC77099 cds chromosome:ASM584v2:Chromosome:4366891:4368327:-1 gene:b4139 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:aspA description:aspartate ammonia-lyase
+AACATT
