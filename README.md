@@ -6,4 +6,5 @@ Usage:
 python codons_finder.py <input file complete name> <output file complete name>
 
 Input (Required): FASTA file containing genomic sequences
+
 Output (Required): File in TXT format containing the gene header and its sequence of six nucleotides
